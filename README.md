@@ -1,5 +1,5 @@
 # grade-tracker
-A simple grade tracker and calculator.
+A single-page web application that helps students track, calculate, and automatically organize their grades.
 
 ## React + Vite
 
